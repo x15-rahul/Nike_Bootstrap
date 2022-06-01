@@ -1,0 +1,10 @@
+@media screen and (min-width: 0px) and (max-width: 765px) {
+    .image-size-sm{
+        width: 350px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 12450px) {
+    .image-size-md{
+        width: 599px;
+    }
+}
